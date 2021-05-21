@@ -1,0 +1,22 @@
+.media{
+    width: 550px;
+    margin-top:10px;
+    box-shadow:5px 5px 5px 5px grey;
+
+}
+
+#header{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(140, 173, 91);
+
+}
+
+#beginning-para{
+    font-size:20px;
+    color: seagreen;
+    font-family: sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
