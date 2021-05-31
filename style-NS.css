@@ -20,3 +20,20 @@
     padding-right: 30px;
 
 }
+
+.button{
+    background-color: rgb(17, 196, 255);
+    border: solid 1px white;
+    width:150px ;
+    height:40px ;
+    border-radius:20px ;
+    color: white;
+    margin-top: 10px;
+    
+}
+
+.back{
+    background-image: url("nature.jpg");
+    background-repeat: no-repeat;
+    
+}
